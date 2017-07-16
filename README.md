@@ -1,5 +1,7 @@
 # Bootstrap 4 + Jekyll
 
+Project: WEB1049 Börja med Jekyll
+
 To use: when you have the dependancies as per
 [the docs](https://jekyllrb.com/docs/installation/) you should run
 `bundle install`.
